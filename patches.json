@@ -893,6 +893,9 @@
       "Fix js uncaught typeError while saving the address in My account section": {
         ">=2.3.5-p1 <2.4.1": {
           "file": "commerce/VRTX-833__js-uncaught-typeError__2.3.5-p1.patch"
+        },
+        ">=2.4.1": {
+          "file": "commerce/VRTX-833__js-uncaught-typeError__2.4.1.patch"
         }
       }
     }
